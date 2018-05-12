@@ -1,10 +1,16 @@
 _repo: The-Scientific-Tourist-through-Ireland_48757
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48757-h/images/back-cover.jpg
 creator:
   author:
     agent_name: Walford, Thomas
     gutenberg_agent_id: '44957'
     url: http://www.gutenberg.org/2009/agents/44957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48757#The-Scientific-Tourist-through-Ireland
 gutenberg_issued: '2015-04-20'
 gutenberg_type: Text
 identifiers:
